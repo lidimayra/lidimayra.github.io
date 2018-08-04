@@ -5,6 +5,12 @@ date:   2018-07-22 00:21:00 -0300
 categories: jekyll update
 ---
 
+<p align="center">
+  <img src="/assets/2018/07/tdc.jpg">
+</p>
+
+<p></p>
+
 Ontem participei do
 [TDC](http://www.thedevelopersconference.com.br/tdc/2018/index.html#saopaulo)
 pela primeira vez e foi uma experiência incrível!! Evento muito bem organizado
