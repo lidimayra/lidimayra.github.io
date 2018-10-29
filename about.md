@@ -18,3 +18,4 @@ Adoro palestrar em eventos e montar oficinas. Seguem os links de algumas apresen
 * [Raspagem de Dados Web com Python](https://lidimayra.github.io/raspagem-slides/)
 * [Construindo uma Aplicação Web com Ruby on Rails](https://lidimayra.github.io/rails-slides/)
 * [Curso de Back-end no Minas Programam](https://lidi.netlify.com/)
+* [Web Crawling e Scraping com Scrapy e Scrapy Cloud](https://scrapy-slides.netlify.com/)
