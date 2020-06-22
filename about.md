@@ -13,7 +13,8 @@ Python e Java.
 Ingressei no mercado de trabalho em 2015, na <a href="http://caiena.net/">Caiena Tecnologia
 e Design</a>, em Campinas. Em 2017, mudei de volta para São Paulo (minha cidade natal) e 
 passei a integrar o Time de Produto do Love Mondays, empresa que posteriormente
-foi integrada ao [Glassdoor](https://www.glassdoor.com.br), onde sigo até hoje.
+foi integrada ao [Glassdoor](https://www.glassdoor.com.br), onde continuei até
+Março/2020. Hoje trabalho de forma remota para a [Gapfish](https://gapfish.com/).
 
 Adoro palestrar em eventos e montar oficinas. Seguem os links de algumas apresentações:
 * [Raspagem de Dados Web com Python](https://lidimayra.github.io/raspagem-slides/)
