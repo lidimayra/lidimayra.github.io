@@ -15,7 +15,7 @@ A alternativa encontrada foi começar a trabalhar remotamente para a nova empres
 e atuar num formato de prestação de serviços (gerando uma fatura comercial
 mensalmente).
 
-Eu que até então só tinha atuado em em regime CLT, fiquei bastante confusa. Mas
+Eu que até então só tinha atuado em regime CLT, fiquei bastante confusa. Mas
 no final deu tudo certo e acredito que relatar essa experiência aqui pode ser
 útil para alguém que se encontre em situação parecida.
 
@@ -25,11 +25,8 @@ viável, então procurei me informar sobre quais eram as minhas possibilidades
 para receber pagamento do exterior como pessoa física.
 
 ## Conta virtual e envio de cobrança
-Abri uma conta na
-[Payoneer](https://www.payoneer.com/raf/?rid=4341FAC8-0423-40AB-9388-F5D1EEE452F6)
-(e se você abrir sua conta usando esse mesmo link aí, tanto eu quanto você
-ganhamos 25 USD cada um se você passar a receber pagamentos por lá também).
-Ali criei uma conta virtual que aceita tanto Dólar quanto Euro. O sistema também
+Abri uma conta na [Payoneer](https://www.payoneer.com/). Ali criei uma conta
+virtual que aceita tanto Dólar quanto Euro. O sistema também
 me permite fazer cobranças, bastando para isso anexar o _invoice_ - fatura
 comercial, o template dá pra caçar na internet... eu usei um dos vários
 modelos disponibilizados pela Microsoft [aqui](https://templates.office.com/en-us/invoices).
